@@ -6,57 +6,57 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **LUIZ MATHEUS** {
- val name = "Luiz Matheus dos Santos Silva"
- val bachelor = "Ciência da Computação"
- val university = "Universidade Federal Rural de Pernambuco"
-
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "C")
-
-}
+```python
+class LuizMatheus:
+    def __init__(self):
+        self.bachelor = "Computer Science"
+        self.university = "Universidade Federal Rural de Pernambuco"
+        
+        # ALGUMAS HABILIDADES 
+        self.languages = ["Python", "Java", "JavaScript", "C"]
 ```
 
 ## Linguagens e ferramentas
 
 <code><img
     height="30"
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    src="https://img.shields.io/badge/Python-3a79a8?style=for-the-badge&logo=Python&logoColor=white"
     alt="Logo Python"/></code>
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"
-    alt="Logo kotlin"/></code>
+    src="https://img.shields.io/badge/Java-ed2c2c?style=for-the-badge&logo=Java&logoColor=white"
+    alt="Logo Java"/></code>
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
-    alt="Logo firebase"/></code>
+    src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+    alt="Logo JavaScript"/></code>
+ <code><img
+    height="30"
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white"
+    alt="Logo C"/></code>
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
-    alt="Logo java"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-    alt="Logo javascript"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-    alt="Logo visual studio"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+    src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=Git&logoColor=white"
     alt="Logo git"/></code>
+<code><img
+    height="30"
+    src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
+    alt="Logo MarkDown"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
     alt="Logo terminal"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    alt="Logo HTML"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    alt="Logo CSS"/></code>
+
+ ## Outras Redes
+ <a href="https://www.linkedin.com/in/loumatheu/" target="_blank">
+    <img
+        height="30"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedInn"/>
+</a>
+ <a href="luiz.matheus@ufrpe.br" target="_blank">
+    <img
+        height="30"
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Gmail"/>
+</a>
