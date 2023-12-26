@@ -41,7 +41,7 @@ class LuizMatheus:
     alt="Logo git"/></code>
 <code><img
     height="30"
-    src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
+    src="https://img.shields.io/badge/Markdown-0d1016?style=for-the-badge&logo=markdown&logoColor=white"
     alt="Logo MarkDown"/></code>
 <code><img
     height="30"
