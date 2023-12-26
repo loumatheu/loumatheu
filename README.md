@@ -9,10 +9,11 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **LUIZ MATHEUS** {
  val name = "Luiz Matheus dos Santos Silva"
- val acknowledgements = "Ciência da Computação"
+ val bachelor = "Ciência da Computação"
+ val university = "Universidade Federal Rural de Pernambuco"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
+ val languages = listOf("Java", "Python", "JavaScript", "C")
 
 }
 ```
@@ -21,8 +22,8 @@ object **LUIZ MATHEUS** {
 
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"
-    alt="Logo android"/></code>
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Logo Python"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"
