@@ -8,6 +8,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ```python
 class LuizMatheus:
+    # Graduação
     def __init__(self):
         self.bachelor = "Computer Science"
         self.university = "Universidade Federal Rural de Pernambuco"
@@ -54,7 +55,7 @@ class LuizMatheus:
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedInn"/>
 </a>
- <a href="luiz.matheus@ufrpe.br" target="_blank">
+ <a href="mailto:luiz.matheus@ufrpe.br" target="_blank">
     <img
         height="30"
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
