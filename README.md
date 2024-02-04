@@ -4,7 +4,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## Mais sobre mim
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<img align="right" width="250" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 ```python
 class LuizMatheus:
