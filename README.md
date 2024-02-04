@@ -4,7 +4,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## Mais sobre mim
 
-<img align="right" width="300" src="https://tenor.com/bMT0G.gif" />
+<img align="right" width="300" src="https://tenor.com/bqrUA.gif" />
 
 ```python
 class LuizMatheus:
